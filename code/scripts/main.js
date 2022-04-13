@@ -7,4 +7,5 @@ function renderSeriesInTable(series) {
         seriesTbody.appendChild(trElement);
     });
 }
+console.log(series);
 renderSeriesInTable(series);

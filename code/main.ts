@@ -13,5 +13,5 @@ function renderSeriesInTable(series: Serie[]): void {
     seriesTbody.appendChild(trElement);
   });
 }
-
+console.log(series);
 renderSeriesInTable(series);
