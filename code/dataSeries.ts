@@ -1,4 +1,4 @@
-import { Serie } from './series.js';
+import { Serie } from './series';
 
 export const series = [
     new Serie (1,"Rome","Amazon", 2,"Historical drama depicting the period of history surrounding the violent transformation of the Roman Republic into the Roman Empire" ,
