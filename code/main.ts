@@ -1,5 +1,5 @@
-import { Serie } from "./series";
-import { series } from "./dataSeries";
+import { Serie } from "./series.js";
+import { series } from "./dataSeries.js";
 
 const seriesTbody: HTMLElement = document.getElementById('series')!;
 renderSeriesInTable(series);
